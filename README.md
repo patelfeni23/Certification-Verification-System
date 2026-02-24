@@ -1,3 +1,6 @@
+<img width="1897" height="912" alt="Screenshot 2026-02-24 130551" src="https://github.com/user-attachments/assets/62f13cc1-8a8e-4941-a481-4a8e6c1aa64d" />
+
+
 🎓 Certification Verification System
 
 The Certification Verification System is a secure web-based application designed to verify the authenticity of issued certificates using a unique certificate ID.
